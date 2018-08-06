@@ -1,0 +1,64 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ebbe0cc0600cb69375abc20af545967f",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "websymbols"
+    },
+    {
+      "uid": "a4765de460cc6485b1ca5b36222f41d5",
+      "css": "twitter-bird",
+      "code": 62211,
+      "src": "websymbols"
+    },
+    {
+      "uid": "0e5740f288f6f5cb04eef63f7f0a1506",
+      "css": "googleplus-rect",
+      "code": 62217,
+      "src": "websymbols"
+    },
+    {
+      "uid": "6ad86a953a5a76086c5568366863bbca",
+      "css": "torso",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "57a4f84c40a0c44d47387105f162a427",
+      "css": "youtube",
+      "code": 59392,
+      "src": "zocial"
+    },
+    {
+      "uid": "eea1af32a01c5e7a9ce5675bcff64a7b",
+      "css": "laptop",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "48b79f27e4798f23bafa07b55dbe5b73",
+      "css": "book",
+      "code": 59395,
+      "src": "entypo"
+    },
+    {
+      "uid": "f89739d9df5c9e70ece9be9cdf66abb6",
+      "css": "envelope-open",
+      "code": 62134,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "57ae6bdecc7044555daa84354a8dfe49",
+      "css": "envelope-open-o",
+      "code": 62135,
+      "src": "fontawesome"
+    }
+  ]
+}
